@@ -14,11 +14,11 @@ User 정보에 부서명을 포함하고 있어 로그인 시, 해당 부서의 
 ## 기능
 ### 로그인
 Firebase User에 등록된 User Data를 가져와 사용자가 입력한 id, password와 <br>
-등록된 User data의 id, password와 비교해 일치하면 Tab Bar Controller로 전이한다.
+등록된 User data의 id, password와 비교해 일치하면 Tab Bar Controller로 전이한다.<br>
 <img width="136" alt="image" src="https://github.com/gesal03/SharedTodo/assets/77336664/f2344872-be19-4ec2-95aa-e1c08bc1e35e">
 
 ### 회원가입
-Id, password, 부서명(dept), 직책(Position)을 입력하여 User 객체를 만들어 Firebase에 저장한다.
+Id, password, 부서명(dept), 직책(Position)을 입력하여 User 객체를 만들어 Firebase에 저장한다.<br>
 <img width="211" alt="image" src="https://github.com/gesal03/SharedTodo/assets/77336664/70bead7f-1bc3-4565-8ffc-6260b54ead40">
 
 ### Todo List
