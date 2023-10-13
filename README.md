@@ -30,6 +30,7 @@ Todo List는 총 두가지의 Table로 나뉜다. <br>
 업무나 일정 완료 시Todo List 좌측의 체크 버튼을 클릭해 완료 상태로 만들 수 있으며, 그 개수는 상단의 Label에 나타난다.<br>
 #### Todo List View
 <img width="235" alt="image" src="https://github.com/gesal03/SharedTodo/assets/77336664/de0bc2fd-0943-4fba-9fc1-0046edd2d17b">
+
 #### 일정 등록 View
 <img width="210" alt="image" src="https://github.com/gesal03/SharedTodo/assets/77336664/4f7e147b-2b04-4bfd-a796-37098b5dea8f">
 
